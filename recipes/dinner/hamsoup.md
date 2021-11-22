@@ -2,7 +2,9 @@
 
 Best made with left over ham from Thanksgiving or Christmas.   Almost free to make if timed correctly.  
 
-![image-20211122170528347](images/image-20211122170528347.png)
+![image-20211122172711161](images/image-20211122172711161.png)
+
+
 
 #### Ingredients
 
