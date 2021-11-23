@@ -4,7 +4,7 @@ This is the best thing to come out of WV since the invention of coal.
 
 ![image-20211123113833588](images/image-20211123113833588.png)
 
-#### Ingredients
+### Ingredients
 
 <img src="images/STUFF.JPG" alt="STUFF" style="zoom:80%;" />
 
@@ -18,7 +18,9 @@ This is the best thing to come out of WV since the invention of coal.
 
 
 
-#### Instructions<img src="images/MIXER.JPG" alt="MIXER" style="zoom:25%;" />
+### Instructions
+
+#### <img src="images/MIXER.JPG" alt="MIXER" style="zoom:25%;" />
 
 - This is the easy mix method.  Using the paddle and not the dough hook put 
 
@@ -31,7 +33,6 @@ This is the best thing to come out of WV since the invention of coal.
 
 - Switch to the dough hook and add remaining flour.  In the end the dough should pull away from the sides of the bowl and be sticky to the touch.   Don't for get the salt at this point as well. 
    <img src="images/MIXED.JPG" alt="MIXED" style="zoom:67%;" />
-  
 
 - Take the dough out of the bowl and form a ball.  Grease the bowl and put the ball back in.  Also, oil the top of the dough so it doesn't get dry while raising.  Cover with plastic wrap and a towel and let it sit until it doubles.  In the summer, just let it sit on the counter.  But in the winter you might need to help the dough stay at 80 degrees by putting it in the oven with the light on.   
 
